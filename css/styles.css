@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: "Sacramento", cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Anek Telugu", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Anek Telugu", sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: "Anek Telugu", sans-serif;
+}
+
+hr {
+  width: 70%;
+}
+
+a {
+  font-family: "Anek Telugu", sans-serif;
+  color: #11999E;
+}
+
+.top {
+  background-color: #B9FFF8;
+  width: 100%;
+  position: relative;
+}
+
+.top-container {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 125px;
+  width: min(50%, 600px);
+}
+
+.mountain-img {
+  width: 100%;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+  position: absolute;
+  left: 80%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+.rounded-imgs {
+  border-radius: 50%;
+  width: 324px;
+  height: 324px;
+}
+
+.underlined {
+  text-decoration: underline;
+}
